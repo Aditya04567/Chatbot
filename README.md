@@ -49,7 +49,7 @@ Follow these steps to set up and run the chatbot:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/chatbot.git
+git clone https://github.com/Aditya04567/Chatbot.git
 cd chatbot
 ```
 
