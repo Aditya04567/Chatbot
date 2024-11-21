@@ -70,7 +70,7 @@ Run the chatbot using the command line. Here are some example commands and optio
 
 ### Basic Command
 ```bash
-python chatbot.py
+python gemini.py
 ```
 
 ### Command-Line Options
