@@ -37,7 +37,7 @@ For image analysis, you can provide specific prompts to guide the chatbot's resp
 
 Here’s a breakdown of the key components in the project:
 
-- **`chatbot.py`**: The main program file containing all the chatbot logic.
+- **`gemini.py`**: The main program file containing all the chatbot logic.
 - **`requirements.txt`**: A list of dependencies needed to run the chatbot.
 - **`logs/`**: A directory where interaction logs are stored automatically.
 
@@ -49,7 +49,7 @@ Follow these steps to set up and run the chatbot:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/gemini-ai-chatbot.git
+git clone https://github.com/yourusername/chatbot.git
 cd gemini-ai-chatbot
 ```
 
