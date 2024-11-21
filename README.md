@@ -50,7 +50,7 @@ Follow these steps to set up and run the chatbot:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/chatbot.git
-cd gemini-ai-chatbot
+cd chatbot
 ```
 
 ### 2. Install Dependencies
