@@ -87,19 +87,19 @@ python chatbot.py
 
 1. **Text Interaction:**
    ```bash
-   python chatbot.py --text
+   python gemini.py --text
    ```
    This enables the chatbot to interact with you via text commands.
 
 2. **Voice Interaction with Logging:**
    ```bash
-   python chatbot.py --voice --log
+   python gemini.py --voice --log
    ```
    Speak to the chatbot, and all interactions will be logged.
 
 3. **Image Analysis:**
    ```bash
-   python chatbot.py --image /path/to/image.jpg --prompt "Describe the emotions in this image."
+   python gemini.py --image /path/to/image.jpg --prompt "Describe the emotions in this image."
    ```
    The chatbot will analyze the image and provide insights based on your custom prompt.
 
